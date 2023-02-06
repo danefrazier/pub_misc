@@ -1,0 +1,11 @@
+alias lh='ls -alh'
+alias gc='gcloud'
+alias kc='kubectl'
+alias gcfg='gcloud config list'
+alias kprox='kubectl proxy'
+alias gpset='gcloud project set '
+alias gcred='gcloud containers clusters get-credentials '
+alias python='python3.11'
+alias pip='pip3.11'
+alias py='python3.11'
+
